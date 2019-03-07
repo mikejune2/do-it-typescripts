@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",  
+    "module": "commonjs",
+    "lib": ["esnext"],   
+    "downlevelIteration": true, 
+    "strict": true,   
+    "noImplicitAny": false, 
+    "moduleResolution": "node", 
+    "esModuleInterop": true 
+  }
+}
